@@ -11,7 +11,7 @@ import SwiftUI
 struct GenericCameraFeedFetcherApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CameraFeedView()
         }
     }
 }
